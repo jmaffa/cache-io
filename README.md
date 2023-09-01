@@ -1,5 +1,4 @@
 # cache-io
-
 Implemented a cache optimized version of the C standard library read, write, and seek IO functions.
 
 Developed for Brown University course CSCI0300: Fundamentals of Computer Systems. Code available on request.
